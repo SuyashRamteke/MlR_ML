@@ -7,7 +7,7 @@ Implemented Genre classification and compared three different algorithms for pre
 Got insights into block processing for audio files. Compared three machine learning algorithms (SVM, Naive Bayes and Logistic
 Regression) for accuracy. The dataset used was GTZAN (10 genres). Got conversant with pandas dataframes 
 
-Familiarized with regression models for emotion regression.
+Familiarized with the theory of regression models for emotion recognition.
 
 Implemented auto-tagging using OneVsRest Classifier for multi-label classification. Implemented query by text.
 Computed the confusion matrix and calculated the accuracy using Precision, recall and F1 score. Compared the 
